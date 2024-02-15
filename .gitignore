@@ -1,0 +1,21 @@
+# Dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# Build output
+/build
+
+# Logs
+*.log
+logs
+*.png
+
+# OS files
+.DS_Store
+
+# Editors
+.idea
+.vscode
+*.swp
